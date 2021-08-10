@@ -6,6 +6,10 @@ public class foreach {
 		animals.add("cat");
 		animals.add("dog");
 		animals.add("rat");
+		int n=17,z=0;
+	     if( n%10 ==7)  
+		
+		System.out.println(z);
 		
 		for(String i : animals){
 			System.out.println(i);
