@@ -4,7 +4,7 @@ public class print {
 		
 		boolean boolean1 = true; // same for using char, int , String
 		double mydouble = 5000;
-		final double pi = 3.14;  // Once this final is assigned those values cannot be updated
+		final double pi = 3.14;  // Once this final is assigned those values cannot be updated.
 		
 		System.out.println(pi);
 		
